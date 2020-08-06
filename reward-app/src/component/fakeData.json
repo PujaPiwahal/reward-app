@@ -1,0 +1,15 @@
+{
+  "customers": ["Allen", "Angela", "Robert", "Kane", "Brett"],
+  "products": [
+    "Pro1",
+    "Pro2",
+    "Pro3",
+    "Pro4",
+    "Pro5",
+    "Pro6",
+    "Pro7",
+    "Pro8",
+    "Pro9"
+  ],
+  "months": ["June", "July", "August"]
+}
